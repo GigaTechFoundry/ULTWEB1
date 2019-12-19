@@ -10,9 +10,9 @@
 		<p>
 			<ol>
 				
-				HTTP Requests
-				IP Address
-				Servers
+				<li>HTTP Requests</li>
+				<li>IP Address</li>
+				<li>Servers</li>
 
 			</ol>
 		</p>
@@ -20,11 +20,12 @@
 <h2>
 	<strong>HTML</strong>
 		<p>
-			<ol>
-				
+			<ul>
+				<li>Stand for <strong>Hyper Text Markup Language</strong></li>
+				<li>Lots of Tags</li>
 
 
-			</ol>
+			</ul>
 		</p>
 </h2>
 
